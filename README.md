@@ -1,2 +1,5 @@
 # Newsweek_project
-A clon of the newsweek home page using bootstrap
+A clone of the newsweek home page using bootstrap
+
+# Newsweek home page -  Bootstrap.
+### HTML, CSS, Bootstrap
