@@ -88,7 +88,7 @@ body {
 	right: -10px;
 	width: 16px;
 	padding: 10px;
-	color: #f72210;
+	color: white;
 	z-index: 9999;
 }
 
@@ -551,4 +551,71 @@ h6 {
 
 .mostread {
 	color: #000;
+}
+
+footer {
+	border-top: 2px solid #f4f5f6;
+	background-color: #fff;
+	padding-top: 30px;
+}
+
+.footer-top {
+	padding-bottom: 20px;
+	border-bottom: 1px solid lightgrey;
+}
+
+.logo-footer > img {
+	width: 236px;
+	height: 36px;
+	fill: #f72210;
+}
+
+.copyright {
+	vertical-align: bottom;
+	padding-left: 10px;
+}
+
+.media-icons {
+	text-align: right;
+}
+
+.media-icons > i {
+	vertical-align: bottom;
+	font-size: 25px;
+	color: #666;
+	padding-left: 7px;
+}
+
+.footer-bottom {
+	padding-top: 15px;
+}
+.menu {
+	display: flex;
+	font-size: 14px;
+	line-height: 15px;
+	list-style: none;
+	margin: 0px;
+	color: #666;
+	padding: 0px;
+}
+
+.leaf {
+	border-right: 1px solid #d9d9d9;
+	padding-right: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+.leaf:hover {
+	color: #000;
+}
+
+#right {
+	text-align: right;
+	padding: 0px;
+}
+
+.last {
+	border: none;
 }
