@@ -14,10 +14,6 @@ body {
   padding: 100px 30px 30px 30px;
 }
 
-/* navigation */
-
-/* navigation top */
-
 .container-fluid {
   position: relative;
 }
@@ -117,8 +113,6 @@ img {
   z-index: 9999;
 }
 
-/* navigation bottom */
-
 .header-bottom {
   color: #000;
   height: 50px;
@@ -174,7 +168,6 @@ img {
   font-weight: 400;
 }
 
-/* col 1 */
 .block-title {
   color: #03030366;
   font-weight: bold;
@@ -226,8 +219,6 @@ h3 {
   color: #000;
 }
 
-/* Col 2 */
-
 #more-stories-part1,
 #more-stories-part2,
 #more-stories-part3,
@@ -275,8 +266,6 @@ h6 {
   color: #000;
   font-weight: 700;
 }
-
-/* Col 3 */
 
 .opinion {
   border-bottom: 1px solid #ddd;
