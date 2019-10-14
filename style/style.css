@@ -619,3 +619,69 @@ footer {
 .last {
 	border: none;
 }
+
+@media screen and (max-width: 991px) {
+	.logoimg {
+		width: 132px;
+		height: 20px;
+		left: 100px;
+		top: 10px;
+	}
+
+	.fa-bars {
+		color: #fff;
+	}
+
+	#navscroll {
+		padding: 3px 0px;
+	}
+
+	#datenav {
+		display: none;
+	}
+
+	#signin {
+		font-size: 14px;
+		bottom: 0px;
+	}
+
+	#signin a {
+		padding: 6px;
+	}
+
+	.fa-chevron-right {
+		display: none !important;
+	}
+
+	/*nav bottom*/
+	.header-bottom {
+		display: none;
+	}
+
+	/*main*/
+	#right-col {
+		margin: auto;
+	}
+
+	.content {
+		padding-top: 40px;
+	}
+}
+
+@media (max-width: 767px) {
+	#image {
+		width: 258px;
+	}
+
+	.image-article {
+		height: 52vw;
+	}
+
+	#image-article7 {
+		height: 52vw;
+	}
+
+	.media-icons {
+		text-align: left;
+	}
+}
