@@ -52,7 +52,7 @@ img {
   position: relative;
   width: 100%;
 }
-  
+
 .logoimg > img {
   width: 100%;
 }
@@ -682,7 +682,6 @@ footer {
 
   #signin {
     font-size: 14px;
-	bottom: 0;
   }
 
   #signin a {
